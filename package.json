@@ -55,7 +55,7 @@
     "node-sass": "^4.9.0",
     "postcss-import": "^12.0.0",
     "postcss-url": "^8.0.0",
-    "prettier": "^1.14.2",
+    "prettier": "1.14.2",
     "sass-loader": "^7.0.1",
     "secp256k1": "^3.5.2",
     "store": "^2.0.12",
